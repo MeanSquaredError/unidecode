@@ -3,7 +3,7 @@ project(unidecode)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_subdirectory(tests)
+# add_subdirectory(tests)
 
 include_directories(include)
 
